@@ -1,0 +1,6 @@
+app = "nyo3-example"
+primary_region = "ewr"
+
+[http_service]
+  internal_port = 80
+  force_https = true

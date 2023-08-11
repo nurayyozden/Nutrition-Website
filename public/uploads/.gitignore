@@ -1,0 +1,18 @@
+# ignore all uploaded files (do not commit to git)
+*
+!.gitignore
+
+# TODO: except do not ignore the "seed" images for the "posts" table.
+!/posts/
+!/posts/1.jpeg
+!/posts/2.jpeg
+!/posts/3.jpeg
+!/posts/4.jpeg
+!/posts/5.jpeg
+!/posts/6.jpeg
+!/posts/7.jpeg
+!/posts/8.jpeg
+!/posts/9.jpeg
+!/posts/10.jpeg
+!/posts/11.jpeg
+!/posts/12.jpeg
